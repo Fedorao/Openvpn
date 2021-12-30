@@ -37,9 +37,10 @@ Red Hat Enterprise Linux, Red Hat JBoss, MySQL Enterprise Server, MySQL Cluster,
 4. C:\Program Files\OpenVPN\config 경로에 client.ovpn 파일 생성해줘야 합니다.
 아래 양식 사용하면 되며, id부분엔 본인의 crt와 key 정보기입.
 
-[client.ovpn](https://github.com/Fedorao/Openvpn/blob/main/client.ovpn)
+[client.ovpn 파일보기](https://github.com/Fedorao/Openvpn/blob/main/client.ovpn)
  
 
+ 
  
 5. 모든 client 설정이 끝났습니다.
 OpenVPN 실행파일을 관리자 권환으로 실행하면 작업표시줄에 다음같이 표시되고 
