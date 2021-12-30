@@ -10,7 +10,7 @@ Red Hat Enterprise Linux, Red Hat JBoss, MySQL Enterprise Server, MySQL Cluster,
 
 
 
-
+---
 ## **OpenVPN Client 설치 및 설정**
 1.    https://openvpn.net/community-downloads/ 에서 최신버전을 다운로드.
 
