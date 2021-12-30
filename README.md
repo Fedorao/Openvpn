@@ -42,9 +42,9 @@ Red Hat Enterprise Linux, Red Hat JBoss, MySQL Enterprise Server, MySQL Cluster,
 
  
  
-5. 모든 client 설정이 끝났습니다.
+5. 모든 client 설정이 끝났습니다.  
 OpenVPN 실행파일을 관리자 권환으로 실행하면 작업표시줄에 다음같이 표시되고 
-Connect를 클릭하여 openvpn 서버에 접속합니다.
+Connect를 클릭하여 openvpn 서버에 접속합니다.  
 (OpenVPN 실행파일은 반드시 관리자 권환으로 실행해야 합니다.)
 
 ![2](https://user-images.githubusercontent.com/96568963/147732139-cbeb18c1-cf75-40e5-a9ab-1aae7618018d.png) 
@@ -57,9 +57,9 @@ Connect를 클릭하여 openvpn 서버에 접속합니다.
 
  
  
-7. OpenVPN Server IP는 10.8.0.1 입니다.
-OpenVPN에 문제가 없다면 라우팅 확인시 10.8.0.1을 게이트웨이로 가지는 대역이 추가됩니다.
-해당 IP로 PING 테스트시 문제가 없다면 모든 설정이 정상적으로 이루어진 것입니다.
+7. OpenVPN Server IP는 10.8.0.1 입니다.  
+OpenVPN에 문제가 없다면 라우팅 확인시 10.8.0.1을 게이트웨이로 가지는 대역이 추가됩니다.  
+해당 IP로 PING 테스트시 문제가 없다면 모든 설정이 정상적으로 이루어진 것입니다.  
 (접속이 정상적이지 않다면 설정파일점검이나,윈도우방화벽,알약v3등의 확인이 필요합니다.)
 
  ![4](https://user-images.githubusercontent.com/96568963/147732142-28968002-ec29-4abb-8dc8-a5ffd94ace9c.png)
@@ -71,11 +71,10 @@ OpenVPN에 문제가 없다면 라우팅 확인시 10.8.0.1을 게이트웨이�
 **■ 조치방법**
  
 - 시작메뉴 TAP-Windows 폴더
-openvpn을 설치하면 이 가상 어댑터를 관리하는 Tap-windows가 같이 설치됩니다.
+openvpn을 설치하면 이 가상 어댑터를 관리하는 Tap-windows가 같이 설치됩니다.  
 윈도우에서 이 어댑터가 문제가 생겨서 접속실패가 되는 것이므로 초기화 작업이 필요합니다.
 
-1. Delete All Tap Virtual ethernet adapters 눌러서 삭제
-
+1. Delete All Tap Virtual ethernet adapters 눌러서 삭제  
 2. Add a new Tap Virtual ethernet adapters 눌러서 새로 생성
 
 ![5](https://user-images.githubusercontent.com/96568963/147732144-c63570cd-9360-4df2-8c31-43ef377868da.png)
