@@ -20,7 +20,7 @@ Red Hat Enterprise Linux, Red Hat JBoss, MySQL Enterprise Server, MySQL Cluster,
 
  ![1](https://user-images.githubusercontent.com/96568963/147732133-bc03b1cc-ce81-4060-8c5d-6ea36788917f.png)
 
-(윈도우10의 경우 C:\Program Files\OpenVPN에 설치됩니다.)
+>> (윈도우10의 경우 C:\Program Files\OpenVPN에 설치됩니다.)
 
 
 
