@@ -7,14 +7,12 @@
 
 Red Hat Enterprise Linux, Red Hat JBoss, MySQL Enterprise Server, MySQL Cluster, Postgresql, Acronis, Apache, Tomcat, JBoss, 
 
-OpenVPN Client 설치 및 설정
-
-
-
+**OpenVPN Client 설치 및 설정**
 1. https://openvpn.net/community-downloads/ 에서 최신버전을 다운로드.
 
 
 2. 다운로드한 파일을 실행하여 설치 진행
+ 
  
 (윈도우10의 경우 C:\Program Files\OpenVPN에 설치됩니다.)
 
