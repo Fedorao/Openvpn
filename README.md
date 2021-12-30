@@ -40,8 +40,7 @@
 ---
 
 5. 모든 client 설정이 끝났습니다.  
-OpenVPN 실행파일을 관리자 권환으로 실행하면  
-작업표시줄에 다음같이 표시되고 Connect를 클릭하여 openvpn 서버에 접속합니다.  
+OpenVPN 실행파일을 관리자 권환으로 실행하면 작업표시줄에 다음같이 표시되고 Connect를 클릭하여 openvpn 서버에 접속합니다.  
 (OpenVPN 실행파일은 반드시 관리자 권환으로 실행해야 합니다.)
 
 ![2](https://user-images.githubusercontent.com/96568963/147732139-cbeb18c1-cf75-40e5-a9ab-1aae7618018d.png) 
