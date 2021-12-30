@@ -1,5 +1,4 @@
-# OpenVPN 설치절차서
-
+# **OpenVPN Client 설치 및 설정**
 
 본 Report는 그로윈 ㈜ OSS 사업본부 / Infra 기술팀 에서 제공하는 문서입니다.
 
@@ -8,7 +7,6 @@
 
 
 ---
-## **OpenVPN Client 설치 및 설정**
 1.    https://openvpn.net/community-downloads/ 에서 최신버전을 다운로드.
 
 
