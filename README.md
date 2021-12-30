@@ -86,4 +86,5 @@ openvpn을 설치하면 이 가상 어댑터를 관리하는 Tap-windows가 같�
 2. write to tun/tap invalid argument (code=22)
 
 ■ 조치방법
+
 설정파일에서 comp-lzo 라인 주석제거
