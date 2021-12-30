@@ -28,9 +28,9 @@ Red Hat Enterprise Linux, Red Hat JBoss, MySQL Enterprise Server, MySQL Cluster,
 
   ca.crt
 
-  <id>.crt
+  id.crt
 
-  <id>.key
+  id.key
 
 
  
