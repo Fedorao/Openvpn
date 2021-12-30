@@ -6,9 +6,6 @@
 운영중인 Openvpn 시스템에 대한 초기 설정 정보를 포함하고 있습니다.
 
 
-Red Hat Enterprise Linux, Red Hat JBoss, MySQL Enterprise Server, MySQL Cluster, Postgresql, Acronis, Apache, Tomcat, JBoss, 
-
-
 
 ---
 ## **OpenVPN Client 설치 및 설정**
