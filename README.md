@@ -74,8 +74,8 @@ OpenVPN에 문제가 없다면 라우팅 확인시 10.8.0.1을 게이트웨이�
 openvpn을 설치하면 이 가상 어댑터를 관리하는 Tap-windows가 같이 설치됩니다.  
 윈도우에서 이 어댑터가 문제가 생겨서 접속실패가 되는 것이므로 초기화 작업이 필요합니다.
 
-1. Delete All Tap Virtual ethernet adapters 눌러서 삭제  
-2. Add a new Tap Virtual ethernet adapters 눌러서 새로 생성
+- Delete All Tap Virtual ethernet adapters 눌러서 삭제  
+- Add a new Tap Virtual ethernet adapters 눌러서 새로 생성
 
 ![5](https://user-images.githubusercontent.com/96568963/147732144-c63570cd-9360-4df2-8c31-43ef377868da.png)
 
