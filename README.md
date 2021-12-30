@@ -26,11 +26,11 @@ Red Hat Enterprise Linux, Red Hat JBoss, MySQL Enterprise Server, MySQL Cluster,
 
 3. 메일에 첨부되어 있는 파일을 C:\Program Files\OpenVPN\config 경로로 복사합니다.
 
-ca.crt
+  ca.crt
 
-<id>.crt
+  <id>.crt
 
-<id>.key
+  <id>.key
 
 
  
