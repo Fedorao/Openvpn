@@ -68,7 +68,7 @@ OpenVPN에 문제가 없다면 라우팅 확인시 10.8.0.1을 게이트웨이�
  
 1. There are no TAP-Windows adapters on this system. You should be able to create a TAP-Windows adapter by going to Start -> All Programs -> TAP-Windows -> Utilities -> Add a new TAP-Windows virtual ethernet adapter.
 
-** 조치방법**
+** 조치방법 **
  
 - 시작메뉴 TAP-Windows 폴더
 openvpn을 설치하면 이 가상 어댑터를 관리하는 Tap-windows가 같이 설치됩니다.  
@@ -83,5 +83,5 @@ openvpn을 설치하면 이 가상 어댑터를 관리하는 Tap-windows가 같�
  
 2. write to tun/tap invalid argument (code=22)
 
-** 조치방법**
+** 조치방법 **
 - 설정파일에서 comp-lzo 라인 주석제거
