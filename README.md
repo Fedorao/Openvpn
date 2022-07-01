@@ -79,7 +79,7 @@ openvpn을 설치하면 이 가상 어댑터를 관리하는 Tap-windows가 같�
 
 ![5](https://user-images.githubusercontent.com/96568963/147732144-c63570cd-9360-4df2-8c31-43ef377868da.png)
 
- 
+---
  
 2. write to tun/tap invalid argument (code=22)
 
