@@ -91,4 +91,4 @@ openvpn을 설치하면 이 가상 어댑터를 관리하는 Tap-windows가 같�
 3. msi 확장자로 설치시 notepad에서 아래 작업 수행 필요
 
 **조치방법**
-편집 > 줄끝 문자(EOL) 변환 > Unix (LF) 선택
+- 편집 > 줄끝 문자(EOL) 변환 > Unix (LF) 선택
