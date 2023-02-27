@@ -45,13 +45,16 @@
 
 ![6](https://user-images.githubusercontent.com/96568963/221455910-dc5708c2-7016-4da4-89a4-9284e1f98e89.png)
 
+
 2) 숨겨진 아이콘 항목에서 openvpn 을 우클릭하여 설정을 클릭합니다.
 
 ![7](https://user-images.githubusercontent.com/96568963/221455914-77323073-31f1-4ffb-a24c-b5201e4bc51a.png)
 
+
 3) 상세에서 설정파일 경로와 로그파일 경로를 맞춰주고 확인을 클릭합니다.
 
 ![8](https://user-images.githubusercontent.com/96568963/221455918-df45003f-1353-4a07-abc0-cdaf147a2ae0.png)
+
 
 ---
 
