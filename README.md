@@ -41,17 +41,17 @@
 
 5. 설정파일과 동일한 경로로 openvpn 경로 설정이 필요합니다.
 
-1)) openvpn 파일을 관리자 권한으로 실행합니다.
+1 - openvpn 파일을 관리자 권한으로 실행합니다.
 
 ![6](https://user-images.githubusercontent.com/96568963/221455910-dc5708c2-7016-4da4-89a4-9284e1f98e89.png)
 
 
-2) 숨겨진 아이콘 항목에서 openvpn 을 우클릭하여 설정을 클릭합니다.
+2 - 숨겨진 아이콘 항목에서 openvpn 을 우클릭하여 설정을 클릭합니다.
 
 ![7](https://user-images.githubusercontent.com/96568963/221455914-77323073-31f1-4ffb-a24c-b5201e4bc51a.png)
 
 
-3) 상세에서 설정파일 경로와 로그파일 경로를 맞춰주고 확인을 클릭합니다.
+3 - 상세에서 설정파일 경로와 로그파일 경로를 맞춰주고 확인을 클릭합니다.
 
 ![8](https://user-images.githubusercontent.com/96568963/221457238-56335d8b-151e-40c8-becd-24191d760d28.png)
 
