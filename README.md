@@ -39,7 +39,20 @@
  
 ---
 
-5. 모든 client 설정이 끝났습니다.  
+5. 설정파일과 동일한 경로로 openvpn 경로 설정이 필요합니다.
+
+1) openvpn 파일을 관리자 권한으로 실행합니다.
+![6](https://user-images.githubusercontent.com/96568963/221455910-dc5708c2-7016-4da4-89a4-9284e1f98e89.png)
+
+2) 숨겨진 아이콘 항목에서 openvpn 을 우클릭하여 설정을 클릭합니다.
+![7](https://user-images.githubusercontent.com/96568963/221455914-77323073-31f1-4ffb-a24c-b5201e4bc51a.png)
+
+3) 상세에서 설정파일 경로와 로그파일 경로를 맞춰주고 확인을 클릭합니다.
+![8](https://user-images.githubusercontent.com/96568963/221455918-df45003f-1353-4a07-abc0-cdaf147a2ae0.png)
+
+---
+
+6. 모든 client 설정이 끝났습니다.  
 OpenVPN 실행파일을 관리자 권환으로 실행하면 작업표시줄에 다음같이 표시되고 Connect를 클릭하여 openvpn 서버에 접속합니다.  
 (OpenVPN 실행파일은 반드시 관리자 권환으로 실행해야 합니다.)
 
@@ -48,14 +61,14 @@ OpenVPN 실행파일을 관리자 권환으로 실행하면 작업표시줄에 �
  
 ---
 
-6. 접속이 완료되면 10.8.0.x 대역의 IP를 할당 받게 됩니다.
+7. 접속이 완료되면 10.8.0.x 대역의 IP를 할당 받게 됩니다.
  
 ![3](https://user-images.githubusercontent.com/96568963/147732140-59262b77-4d6a-4f7a-89e7-ef180aeb4e11.png)
 
  
 ---
 
-7. OpenVPN Server IP는 10.8.0.1 입니다.  
+8. OpenVPN Server IP는 10.8.0.1 입니다.  
 OpenVPN에 문제가 없다면 라우팅 확인시 10.8.0.1을 게이트웨이로 가지는 대역이 추가됩니다.  
 해당 IP로 PING 테스트시 문제가 없다면 모든 설정이 정상적으로 이루어진 것입니다.  
 (접속이 정상적이지 않다면 설정파일점검이나,윈도우방화벽,알약v3등의 확인이 필요합니다.)
