@@ -53,7 +53,7 @@
 
 3) 상세에서 설정파일 경로와 로그파일 경로를 맞춰주고 확인을 클릭합니다.
 
-![8](https://user-images.githubusercontent.com/96568963/221455918-df45003f-1353-4a07-abc0-cdaf147a2ae0.png)
+![8](https://user-images.githubusercontent.com/96568963/221457238-56335d8b-151e-40c8-becd-24191d760d28.png)
 
 
 ---
