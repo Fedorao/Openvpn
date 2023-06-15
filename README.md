@@ -7,7 +7,7 @@
 
 
 ---
-1.    https://openvpn.net/community-downloads/ 에서 최신버전을 다운로드.
+1.    https://openvpn.net/community-downloads/ 에서 " OpenVPN 2.5.8 -- Released 2 November 2022 " 버전을 다운로드.
 
 
 ---
